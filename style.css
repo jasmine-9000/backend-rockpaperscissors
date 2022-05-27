@@ -1,0 +1,22 @@
+h1{
+    color: red;
+  }
+  
+  
+  h2 {
+    color: blue;
+  }
+  
+  #scissors.choice.fas:hover,
+  #rock.choice.fas:hover,
+  #paper.choice.fas:hover{
+    color: #333333;
+  }
+  
+  .choices-array {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    padding: 0.5rem;
+    border: 1px solid gray;
+  }
